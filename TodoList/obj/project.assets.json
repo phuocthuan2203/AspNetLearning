@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
+      },
+      "UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UseCases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    },
+    "UseCases/1.0.0": {
+      "type": "project",
+      "path": "../UseCases/UseCases.csproj",
+      "msbuildProject": "../UseCases/UseCases.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Entities >= 1.0.0",
+      "Infrastructure >= 1.0.0",
+      "UseCases >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/thuannguyenphuoc/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/TodoList/TodoList.csproj",
+      "projectName": "TodoList",
+      "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/TodoList/TodoList.csproj",
+      "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
+      "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/TodoList/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/thuannguyenphuoc/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/Entities.csproj": {
+              "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/Entities.csproj"
+            },
+            "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Infrastructure/Infrastructure.csproj"
+            },
+            "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/UseCases.csproj": {
+              "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/UseCases.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

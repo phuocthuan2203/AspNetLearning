@@ -1,0 +1,15 @@
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/bin/Debug/net8.0/UseCases.deps.json
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/bin/Debug/net8.0/UseCases.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/bin/Debug/net8.0/UseCases.pdb
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/bin/Debug/net8.0/Entities.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/bin/Debug/net8.0/Entities.pdb
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/obj/Debug/net8.0/UseCases.csproj.AssemblyReference.cache
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/obj/Debug/net8.0/UseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/obj/Debug/net8.0/UseCases.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/obj/Debug/net8.0/UseCases.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/obj/Debug/net8.0/UseCases.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/obj/Debug/net8.0/UseCases.csproj.Up2Date
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/obj/Debug/net8.0/UseCases.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/obj/Debug/net8.0/refint/UseCases.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/obj/Debug/net8.0/UseCases.pdb
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/UseCases/obj/Debug/net8.0/ref/UseCases.dll

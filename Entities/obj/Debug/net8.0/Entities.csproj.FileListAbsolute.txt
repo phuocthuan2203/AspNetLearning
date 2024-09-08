@@ -1,0 +1,11 @@
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/bin/Debug/net8.0/Entities.deps.json
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/bin/Debug/net8.0/Entities.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/bin/Debug/net8.0/Entities.pdb
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/obj/Debug/net8.0/Entities.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/obj/Debug/net8.0/refint/Entities.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/obj/Debug/net8.0/Entities.pdb
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/04_Document_macOS/08_ASPdotNET/Entities/obj/Debug/net8.0/ref/Entities.dll
